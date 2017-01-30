@@ -1,8 +1,8 @@
 # RecyclerView2
 Judul : RecyclerView2
 
-![Screenshot](https://cloud.githubusercontent.com/assets/22131954/20038071/a46678ae-a45f-11e6-895b-af090b4ab2a5.JPG)
-![Screenshot](https://cloud.githubusercontent.com/assets/22131954/20038072/a4f552cc-a45f-11e6-860d-1475ebc474f4.JPG)
+![Screenshot](https://cloud.githubusercontent.com/assets/22131954/22412398/8f97f588-e6e0-11e6-9763-421d98543dd4.jpeg)
+
 
 Nama : A.Anugrah Deni Dewanta
 
